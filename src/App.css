@@ -6,4 +6,11 @@
 .App footer {
   font-size: 11px;
   margin: 10px 0;
+  text-align: center;
+  border: 1px solid transparent;
+  font-family: "Fredoka", sans-serif;
+  padding: 40px 70px;
+  border: 1px solid transparent;
+  border-radius: 25px;
+  background: #94d8ff;
 }
